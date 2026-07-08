@@ -65,7 +65,7 @@ This project was built to learn Go concurrency by implementing a real-world appl
 
 ```bash
 git clone <repository-url>
-cd go-concurrent-file-downloader
+cd go
 
 go run .
 ```
