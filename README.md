@@ -70,6 +70,10 @@ cd go
 go run .
 ```
 
+## Engineering Notes
+
+This project is part of my Go Engineering roadmap, where I build production-inspired software to master backend engineering, concurrency, networking, and distributed systems.
+
 ## License
 
 MIT
